@@ -3,35 +3,35 @@
       {
         "id": 1,
         "name": "Air Max 270",
-        "price": 150,
+        "price": 195,
         "title": "Nike Air Max 270",
         "description": "The Nike Air Max 270 features a lightweight, durable design and large air unit for supreme comfort."
       },
       {
         "id": 2,
         "name": "UltraBoost 21",
-        "price": 180,
+        "price": 112,
         "title": "Adidas UltraBoost 21",
         "description": "Experience energy return in every stride with the Adidas UltraBoost 21, featuring responsive cushioning and a flexible design."
       },
       {
         "id": 3,
         "name": "Gel-Kayano 28",
-        "price": 160,
+        "price": 165,
         "title": "ASICS Gel-Kayano 28",
         "description": "ASICS Gel-Kayano 28 offers premium stability and comfort with gel technology and a breathable upper."
       },
       {
         "id": 4,
         "name": "Pegasus Trail 3",
-        "price": 130,
+        "price": 145,
         "title": "Nike Pegasus Trail 3",
         "description": "The Nike Pegasus Trail 3 is designed for both road and trail, featuring a durable build and cushioned comfort."
       },
       {
         "id": 5,
         "name": "Cloudswift",
-        "price": 140,
+        "price": 160,
         "title": "On Running Cloudswift",
         "description": "On Running Cloudswift provides a smooth, cushioned ride with its unique cloud cushioning and sleek design."
       }
